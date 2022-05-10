@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family-Roboto:wght@300,100&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+.card-footer {
+    border-bottom: solid 1px;
+    border-color: #d9dbe2;
+}
+.form-footer {
+    color: white;
+}
+.form-modify {
+    
+}
+
+
