@@ -3,7 +3,6 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
-
 .navbar-brand img {
     height: 40px;
 }
@@ -14,8 +13,8 @@ body {
 .form-footer {
     color: white;
 }
-.form-modify {
-    
+.cupponblack {
+    width: 150px;
 }
 
 
